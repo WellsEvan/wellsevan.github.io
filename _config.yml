@@ -118,8 +118,10 @@ content:
       - layout: top-middle
         title: Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation
         link: https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27496
+        quote: >
+        This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-        We supplemented antibody-producing Chinese Hamster Ovary (CHO) cells with 2FP, galactose, and uridine and saw targeted effects on antibody glycosylation (e.g. galactosylation and fucosylation) without sacrificing culture growth or antibody yield.
+        I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. 
 
   - title: A Little More About Me
     layout: text
