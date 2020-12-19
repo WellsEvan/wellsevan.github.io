@@ -118,9 +118,6 @@ content:
       - layout: top-middle
         title: Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation
         link: https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.27496
-        quote: >
-          We supplemented antibody-producing Chinese Hamster Ovary (CHO) cells with 2FP, galactose, and uridine and saw targeted effects on antibody glycosylation (e.g. galactosylation and fucosylation) without sacrificing culture growth or antibody yield.
-        description: | # this will include new lines to allow paragraphs
            We supplemented antibody-producing Chinese Hamster Ovary (CHO) cells with 2FP, galactose, and uridine and saw targeted effects on antibody glycosylation (e.g. galactosylation and fucosylation) without sacrificing culture growth or antibody yield.
 
   - title: A Little More About Me
