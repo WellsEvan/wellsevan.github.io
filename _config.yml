@@ -112,22 +112,40 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. 
 
-  - title: A Little More About Me
+
+  - title: Personal Background
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      I was born and raised in North Carolina. After undergrad, I moved to New Orleans to start graduate school at Tulane before following my advisor to Carnegie Mellon in Pittsburgh to finish my Ph.D. Aside from biotechnology, some of my other interests include:
+      - Watching movies
+      - Reading a mixture of science fiction, fantasy, and nonfiction books
+      - Enjoying the outdoors
+      - Cooking enjoyable meals
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: true
-# references_title: References on request. Updated December 2020 (Override references text)
+# references_title: References on request. (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
