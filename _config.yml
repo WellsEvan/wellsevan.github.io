@@ -126,7 +126,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A review focused on practical ways to improve protein production in CHO bioprocesses. 
       - layout: top-middle
-        title: Cellular engineering for therapeutic protein production\: product quality, host modification, and process improvement
+        title: "Cellular engineering for therapeutic protein production: product quality, host modification, and process improvement"
         link: https://onlinelibrary.wiley.com/doi/abs/10.1002/biot.201600105
         quote: >
           Evan Wells, Anne Skaja Robinson
