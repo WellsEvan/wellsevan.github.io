@@ -72,8 +72,7 @@ content:
         sub_title: Graduate Researcher
         caption: August 2015 - December 2020
         quote: >
-          Advisor: Prof. Anne Robinson; 
-	  Dissertation: Post-translational modifications to recombinant proteins: Roles in antibody production and neurodegenerative disease
+          Advisor: Prof. Anne Robinson, Dissertation: Post-translational modifications to recombinant proteins: Roles in antibody production and neurodegenerative disease
         description: | # this will include new lines to allow paragraphs
             Determined the effects of media supplementation and process conditions on antibody production and antibody glycosylation in shake flask and bench-scale bioreactor CHO cell cultures. 
 	    Developed a platform for expressing and purifying phosphorylated tau from <i>E. coli</i> cultures. Characterized the effects of phosphorylation on tau protein isoelectric point and aggregation propensity. 
@@ -97,22 +96,18 @@ content:
         caption: 2015-2020
         sub_title: Ph.D. Chemical Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Pittsburgh, PA
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          In addition to my graduate work, I served in various department level and university wide leadership positions
 
       - layout: left
         title: East Carolina University
         caption: 2009-2013
         sub_title: B.S. Biochemistry, B.A. Chemistry
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
