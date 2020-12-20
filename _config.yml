@@ -74,8 +74,7 @@ content:
         quote: >
           Advisor: Prof. Anne Robinson, Dissertation: Post-translational modifications to recombinant proteins: Roles in antibody production and neurodegenerative disease
         description: | # this will include new lines to allow paragraphs
-            Determined the effects of media supplementation and process conditions on antibody production and antibody glycosylation in shake flask and bench-scale bioreactor CHO cell cultures. 
-	    Developed a platform for expressing and purifying phosphorylated tau from <i>E. coli</i> cultures. Characterized the effects of phosphorylation on tau protein isoelectric point and aggregation propensity. 
+            Determined the effects of media supplementation and process conditions on antibody production and antibody glycosylation in shake flask and bench-scale bioreactor CHO cell cultures. Developed a platform for expressing and purifying phosphorylated tau from <i>E. coli</i> cultures. Characterized the effects of phosphorylation on tau protein isoelectric point and aggregation propensity. 
 
       - layout: left
         title: Brody School of Medicine
