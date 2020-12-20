@@ -118,25 +118,7 @@ content:
           Evan Wells, Liqing Song, Madison Greer, Yu Luo, Varghese Kurian, Babatunde Ogunnaike, Anne S Robinson
         description: | # this will include new lines to allow paragraphs
           We supplemented antibody-producing Chinese Hamster Ovary (CHO) cells with 2FP, galactose, and uridine and saw targeted effects on antibody glycosylation (e.g. galactosylation and fucosylation) without sacrificing culture growth or antibody yield. 
-
-      - layout: top-middle
-        title: Strategies to enhance productivity and modify product quality in therapeutic proteins
-        link: https://www.sciencedirect.com/science/article/abs/pii/S2211339818300443
-        quote: >
-          Devesh Radhakrishnan, Evan A Wells, Anne Skaja Robinson
-        description: | # this will include new lines to allow paragraphs
-          A review focused on practical ways to improve protein production CHO bioprocesses. 
-
-      - layout: top-middle
-        title: Cellular engineering for therapeutic protein production: product quality, host modification, and process improvement
-        link: https://onlinelibrary.wiley.com/doi/abs/10.1002/biot.201600105
-        quote: >
-          Evan Wells, Anne Skaja Robinson
-        description: | # this will include new lines to allow paragraphs
-          A review highlighting different model organisms to produce recombinant proteins for therapeutic usage. 
-      
-
-
+          
   - title: Personal Background
     layout: text
     content: | # this will include new lines to allow paragraphs
