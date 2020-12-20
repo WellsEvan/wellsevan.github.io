@@ -127,21 +127,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           A review focused on practical ways to improve protein production in CHO bioprocesses. 
 
-      - layout: top-middle
-        title: Cellular engineering for therapeutic protein production: product quality, host modification, and process improvement
-        link: https://onlinelibrary.wiley.com/doi/abs/10.1002/biot.201600105
-        quote: >
-          Evan Wells, Anne Skaja Robinson
-        description: | # this will include new lines to allow paragraphs
-          A review highlighting different model organisms to produce recombinant proteins for therapeutic usage. 
-
-      - layout: top-middle
-        title: 15 (V/K) kinetic isotope effect and steady-state kinetic analysis for the transglutaminase 2 catalyzed deamidation and transamidation reactions
-        link: https://www.sciencedirect.com/science/article/abs/pii/S0003986118300547
-        quote: >
-          Evan A Wells, Mark A Anderson, Tonya N Zeczycki
-        description: | # this will include new lines to allow paragraphs
-          We determined the effects of increasing concentrations of putrescine on the kinetic mechanism of transglutaminase 2. 
 
   - title: Personal Background
     layout: text
