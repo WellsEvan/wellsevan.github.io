@@ -72,9 +72,11 @@ content:
         sub_title: Graduate Researcher
         caption: August 2015 - December 2020
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Advisor: Prof. Anne Robinson; 
+	  Dissertation: Post-translational modifications to recombinant proteins: Roles in antibody production and neurodegenerative disease
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. .
+            Determined the effects of media supplementation and process conditions on antibody production and antibody glycosylation in shake flask and bench-scale bioreactor CHO cell cultures. 
+	    Developed a platform for expressing and purifying phosphorylated tau from <i>E. coli</i> cultures. Characterized the effects of phosphorylation on tau protein isoelectric point and aggregation propensity. 
 
       - layout: left
         title: Brody School of Medicine
@@ -83,9 +85,9 @@ content:
         sub_title: Research Specialist
         caption: March 2014-June 2015
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Advisor: Prof. Tonya Zeczycki
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. 
+            Expressed, purified, and kinetically characterized transglutaminase 2, a protein involved in neurodegenerative diseases. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
