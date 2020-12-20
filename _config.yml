@@ -99,7 +99,7 @@ content:
         quote: >
           Evan Wells, Liqing Song, Madison Greer, Yu Luo, Varghese Kurian, Babatunde Ogunnaike, Anne S Robinson
         description: | # this will include new lines to allow paragraphs
-          <center style="font-size:40px;">We supplemented antibody-producing Chinese Hamster Ovary (CHO) cells with 2FP, galactose, and uridine and saw targeted effects on antibody glycosylation (e.g. galactosylation and fucosylation) without sacrificing culture growth or antibody yield.</center>
+          <center style="font-size:1.6rem;">We supplemented antibody-producing Chinese Hamster Ovary (CHO) cells with 2FP, galactose, and uridine and saw targeted effects on antibody glycosylation (e.g. galactosylation and fucosylation) without sacrificing culture growth or antibody yield.</center>
       - layout: top-middle
         title: Strategies to enhance productivity and modify product quality in therapeutic proteins
         link: https://www.sciencedirect.com/science/article/abs/pii/S2211339818300443
